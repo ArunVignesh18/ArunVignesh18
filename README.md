@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arunvignesh.m18@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1FuIyYuAzQrzoCl0ADvUGfmrukT_Xkf4P](https://drive.google.com/drive/folders/1FuIyYuAzQrzoCl0ADvUGfmrukT_Xkf4P)
+- 📄 Know about my experiences [https://bit.ly/3BO957N](https://bit.ly/3BO957N)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

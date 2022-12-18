@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **all data analytics projects to enhance my skills**
 
-- 🤝 I’m looking for help with **any data analytics ideas to work**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ArunVignesh18/](https://github.com/ArunVignesh18/)
 
 - 📫 How to reach me **arunvignesh.m18@gmail.com**

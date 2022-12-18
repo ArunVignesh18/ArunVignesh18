@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arun Vignesh M</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on **becoming a data analyst / full stack developer**
+- 🔭 I’m currently working on **becoming a data analyst / software developer**
 
-- 🌱 I’m currently learning **full-stack.**
+- 🌱 I’m currently learning **full-stack development.**
 
 - 👯 I’m looking to collaborate on **all data analytics projects to enhance my skills**
 
